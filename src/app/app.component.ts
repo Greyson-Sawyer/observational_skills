@@ -6,7 +6,7 @@ import { RouterOutlet } from '@angular/router';
   standalone: true,
   imports: [RouterOutlet],
   styleUrl: './app.component.scss',
-  template: ` <div>Connected to github.</div> `,
+  template: ` <div>Connected to github</div> `,
 })
 export class AppComponent {
   title = 'observational_skills';
